@@ -1,0 +1,5 @@
+export KEY_COUNTRY="MG"
+export KEY_PROVINCE="IH"
+export KEY_CITY="Quelquepart"
+export KEY_ORG="serveur.domaine.org"
+export KEY_EMAIL="admin@domaine.org"
