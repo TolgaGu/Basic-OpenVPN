@@ -49,6 +49,7 @@ sudo service openvpn start : démarrer le service<br>
 
 Pour se connecter depuis le client, bien penser à mettre le "s" de https et d\'indiquer le port 943 => https://{votreip}:943/
 
+(Ubuntu 18)
 
 enjoy :-)
 
