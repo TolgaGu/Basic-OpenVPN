@@ -1,7 +1,7 @@
 # Miage.19 Securite
 
 
-### Mise en place d'un serveur VPN basic avec openvpn
+### Mise en place d'un serveur VPN basic avec openvpn (Ubuntu 18)
 
 - cloner ou télécharger le projet
 
@@ -48,8 +48,6 @@ sudo service openvpn start : démarrer le service<br>
 ### Infos : 
 
 Pour se connecter depuis le client, bien penser à mettre le "s" de https et d\'indiquer le port 943 => https://{votreip}:943/
-
-(Ubuntu 18)
 
 enjoy :-)
 
